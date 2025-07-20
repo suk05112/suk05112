@@ -2,10 +2,6 @@
 ![Static Badge](https://camo.githubusercontent.com/37d321d349c5fa9a39519dadfa819490cc809b7d357a78c5ac70ffa59c6ea34d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d4646464646463f267374796c653d666f722d7468652d6261646765266c6f676f3d4170706c65266c6f676f436f6c6f723d626c61636b) ![Static Badge](https://camo.githubusercontent.com/e8aabed5453200a4b7b11be8b0d23f957eab2e65c55afbe93033b6203d578c92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4630353133382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5377696674266c6f676f436f6c6f723d7768697465) ![Static Badge](https://camo.githubusercontent.com/99b35796224aa2b5723b6b805c0370589e7d9b968cfbf8560666a5f04840745b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)
    
    📫  sujin52560@gmail.com 
-<br>
-<br>
-
-# About me
 - 2년동안 위치인식 iOS SDK를 개발했습니다.
 - 자동화를 통해 업무 효율을 개선할수 있습니다.
 - 스타트업에서 개발/운영/고객사 대응 전 과정을 경험했습니다.
@@ -19,7 +15,7 @@
 <br>
 
 # Project
-##### MiniPlengi SDK
+#### MiniPlengi SDK
 사용자의 위치 정보를 이용해 매장 방문 여부를 판단하는 SDK
 - SDK Logger 개선
 - Cocoapod 기반 라이브러리 SPM/xcframework 반으로 전환
@@ -32,7 +28,7 @@
  
 <br>
 
-##### 캐시플레이스
+#### 캐시플레이스
 실내 사진촬영을 통하여 리워드를 받는 앱
 - 목적: SDK 테스트 베드 및 전국 비콘데이터 수집을 위한 B2C 앱
 - 릴리즈/디버그 버전 빌드 환경 분리
@@ -40,15 +36,12 @@
 - Slack Webhook 연동을 통해, 관계자들에게 앱 출시및 이슈에 관한 정보 공유 자동화
 - FCM을 이용한 푸시 메시지 기능 개발
 
-
-<!---
-suk05112/suk05112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<br>
 
 
 # Side Project
-##### [TotheDeepGreen](https://github.com/suk05112/Habit-Management)
+#### [TotheDeepGreen](https://github.com/suk05112/Habit-Management)
 깃허브 잔디브를 모티브로 한 습관관리 앱
 
 <!---
